@@ -9,7 +9,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Social media dashboard with theme switcher](https://t1p-calculator-app.netlify.app/)
+- Live Site URL: [Social media dashboard with theme switcher](https://soc1al-media-dashboard.netlify.app/)
 
 ## Built with
 
